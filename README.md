@@ -1,2 +1,1 @@
-# Learn_git
-# second commit
+### 这个仓库里面会放上一些 Python 爬虫的例子。欢迎大家 star
